@@ -27,10 +27,6 @@ There are also a number of filters devs can use to alter output.
 
 == Installation ==
 
-This section describes how to install the plugin and get it working.
-
-e.g.
-
 1. Upload plugin folder to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Start adding galleries to posts/pages via wordpress add media interface
@@ -62,5 +58,5 @@ This is the inital version of the plugin
 prso_found_gallery_large_class 		->	Foundation large class for grid block
 prso_found_gallery_small_class 		->	Foundation small class for grid block
 prso_found_gallery_image_caption 	->	Filter caption for each image in gallery
-prso_found_gallery_li_class 		->	Filter class applied to each <li> item in block grid
+prso_found_gallery_li_class 		->	Filter class applied to each li item in block grid
 prso_found_gallery_output 			->	Filter overall html output for gallery
