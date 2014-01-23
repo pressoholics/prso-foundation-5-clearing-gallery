@@ -33,6 +33,8 @@ There are also a number of filters devs can use to alter output.
 
 == Frequently Asked Questions ==
 
+More info in GitHub repo - https://github.com/pressoholics/prso-foundation-5-clearing-gallery
+
 = Will this work without Zurb Foundation =
 
 No. This plugin will only work with a theme using the Zurb Foundation framework, version 4 and 5.
@@ -55,8 +57,8 @@ This is the inital version of the plugin
 
 == Filters ==
 
-prso_found_gallery_large_class 		->	Foundation large class for grid block
-prso_found_gallery_small_class 		->	Foundation small class for grid block
-prso_found_gallery_image_caption 	->	Filter caption for each image in gallery
-prso_found_gallery_li_class 		->	Filter class applied to each li item in block grid
-prso_found_gallery_output 			->	Filter overall html output for gallery
+* prso_found_gallery_large_class 		->	Foundation large class for grid block
+* prso_found_gallery_small_class 		->	Foundation small class for grid block
+* prso_found_gallery_image_caption 	->	Filter caption for each image in gallery
+* prso_found_gallery_li_class 		->	Filter class applied to each li item in block grid
+* prso_found_gallery_output 			->	Filter overall html output for gallery
