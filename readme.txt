@@ -54,6 +54,7 @@ No. This plugin will only work with a theme using the Zurb Foundation framework,
 
 = 1.0 =
 This is the inital version of the plugin
+Updated readme file
 
 == Filters ==
 
