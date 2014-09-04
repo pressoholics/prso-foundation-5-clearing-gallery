@@ -4,8 +4,8 @@ License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl.html
 Tags: zurb foundation,zurb foundation 5, zurb, foundation, foundation 5, foundation gallery, foundation clearing, zurb foundation gallery, zurb foundation clearing
 Requires at least: 3.0
-Tested up to: 3.8
-Stable tag: 1.0
+Tested up to: 4.0
+Stable tag: 1.01
 
 Enhance Wordpress gallery shortcode content with the Zurb Foundation Clearing lightbox. Just enable and all gallery shortcodes will use Clearing.
 
@@ -46,6 +46,9 @@ No. This plugin will only work with a theme using the Zurb Foundation framework,
 3. Example of Clearing lightbox at work.
 
 == Changelog ==
+
+= 1.01 =
+* Confirmed plugin supports Wordpress 4.0
 
 = 1.0 =
 * Added some filters for devs to use
